@@ -1,0 +1,17 @@
+# dotfiles repo
+
+## dependencies
+
+ - git
+ - zsh
+ - fzf
+ - zoxide
+ - fastfetch
+ - nano
+
+## installation
+```sh
+git clone https://www.github.com/qbos07/.dotfiles
+cd .dotfiles
+stow .
+```
