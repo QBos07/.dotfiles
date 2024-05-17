@@ -1,6 +1,6 @@
 # dotfiles repo
 
-## dependencies
+## Dependencies
 
  - git
  - zsh
@@ -9,9 +9,9 @@
  - fastfetch
  - nano
 
-## installation
+## Installation
 ```sh
-git clone https://github.com/qbos07/.dotfiles.git
+git clone https://github.com/QBos07/.dotfiles.git
 cd .dotfiles
 stow .
 ```
