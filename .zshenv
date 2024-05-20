@@ -1,1 +1,1 @@
-ZDOTDIT=$HOME/.zsh
+ZDOTDIR=$HOME/.zsh
