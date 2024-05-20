@@ -1,0 +1,1 @@
+ZDOTDIT=$HOME/.zsh
