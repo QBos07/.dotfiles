@@ -99,7 +99,7 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 # Aliases
 alias ls='ls --color=auto'
 alias grep='grep --color=auto'
-alias diff='diff --color=autp'
+alias diff='diff --color=auto'
 alias ip='ip -color=auto'
 export LESS='-R --use-color'
 export MANPAGER="less -R --use-color -Dd+r -Du+b"
