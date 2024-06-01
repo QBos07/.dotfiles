@@ -8,6 +8,7 @@
  - zoxide
  - fastfetch
  - nano
+ - GNU stow
 
 ## Installation
 ```sh
