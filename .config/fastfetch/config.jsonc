@@ -8,7 +8,10 @@
   },
   "display": {
     "separator": "",
-    "keyWidth": 20
+    "key": {
+      "width": 20,
+      "type": "string"
+    }
   },
   "modules": [
     "title",
